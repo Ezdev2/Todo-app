@@ -1,0 +1,31 @@
+.input {
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px 10px;
+    border-radius: 15px;
+}
+.button {
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: none;
+    background-color: brown;
+    color: white;
+    margin-left: 15px;
+    font-family: Tahoma, sans-serif;
+}
+.app {
+    margin: auto;
+    width: 50%;
+    border: 1px solid rgb(190, 190, 190);
+    padding: 5px 10px;
+    border-radius: 15px;
+    min-height: 500px;
+}
+.list {
+    margin-top: 25px;
+}
+hr{
+    border: 1px solid rgb(190, 190, 190, 0.4);
+}
+li{
+    list-style: none;
+}
